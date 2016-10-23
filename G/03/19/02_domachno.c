@@ -11,4 +11,3 @@ a=(float)s/a;
 if(a>7)printf("heavy");
 else printf("light");
 }
-~ 
